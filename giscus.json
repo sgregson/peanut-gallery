@@ -1,0 +1,5 @@
+{
+  "origins": ["https://giscus.app", "https://sgregson-dev-2.vercel.app"],
+  "originsRegex": ["http://localhost:[0-9]+"],
+  "defaultCommentOrder": "newest"
+}
